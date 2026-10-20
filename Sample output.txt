@@ -1,0 +1,16 @@
+
+Sample output:
+
+===== CSV DATA PROCESSOR =====
+Enter CSV file name (example: employees.csv): employees.csv
+
+========== CSV SUMMARY REPORT ==========
+Total records: 4
+
+Column: Salary
+Valid numeric values: 4
+Total: 130000.00
+Average: 32500.00
+Highest value: 40000.00
+
+========================================
